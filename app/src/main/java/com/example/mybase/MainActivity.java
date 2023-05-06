@@ -73,6 +73,6 @@ public class MainActivity extends AppCompatActivity {
         }else {
             Toast.makeText(this, "debe ingresar un codigo", Toast.LENGTH_SHORT).show();
         }
-
+///
     }
 }
